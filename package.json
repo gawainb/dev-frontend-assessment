@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "bulma": "^0.7.2",
+    "bulma": "^0.7.5",
     "bulma-extensions": "^3.0.0",
     "circular-dependency-plugin": "^5.0.2",
     "font-awesome": "^4.7.0",
